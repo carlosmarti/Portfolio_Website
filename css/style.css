@@ -20,8 +20,8 @@ body {
     border-color: #FFFFFF;
 }
 
-.text{
-        color: white;
+.text-color{
+    color: white;
 }
 
 .me-border{
@@ -29,4 +29,8 @@ body {
     height:256px; 
     border-color: #202020; 
     border-radius:120px; 
+}
+
+p span p{
+    color: black;
 }
